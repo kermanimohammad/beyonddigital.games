@@ -77,7 +77,9 @@
     "mcSmartCart": {
       "currency": "USD"
     },
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
